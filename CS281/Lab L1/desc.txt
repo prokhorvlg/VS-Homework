@@ -1,0 +1,7 @@
+Valentin Sigalov
+
+During this lab, I ran the program sum.asm in the program QtSpim. I then stepped through the program, recorded each instruction (and its machine code counterpart), and recorded any changes in the memory associated with the instruction (with exceptions to the first add and lw, where I recorded the referenced memory locations as well).
+
+Difficulties:
+
+None, other than figuring out how to operate the application QtSpim first (a few minutes.)
